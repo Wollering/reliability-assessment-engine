@@ -1,6 +1,3 @@
-# reliability-assessment-engine
- supports CTF-platform
-
 # Reliability Assessment Engine
 
 A serverless application that automatically evaluates AWS infrastructure for compliance with the Well-Architected Reliability Pillar. This engine is specifically designed for Capture The Flag (CTF) challenges focused on AWS reliability best practices.
