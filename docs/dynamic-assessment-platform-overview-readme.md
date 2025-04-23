@@ -26,8 +26,6 @@ The Dynamic Challenge Assessment Engine allows multiple engineers to develop AWS
 
 ## Architecture
 
-![Architecture Diagram](https://via.placeholder.com/800x400?text=Dynamic+Assessment+Engine+Architecture)
-
 The system consists of the following components:
 
 ### 1. S3 Challenge Repository
